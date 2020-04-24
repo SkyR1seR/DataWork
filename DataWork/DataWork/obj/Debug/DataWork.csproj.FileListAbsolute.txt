@@ -1,0 +1,14 @@
+C:\Users\dommi\source\repos\DataWork\DataWork\bin\Debug\DataWork.exe.config
+C:\Users\dommi\source\repos\DataWork\DataWork\bin\Debug\DataWork.exe
+C:\Users\dommi\source\repos\DataWork\DataWork\bin\Debug\DataWork.pdb
+C:\Users\dommi\source\repos\DataWork\DataWork\obj\Debug\DataWork.csprojAssemblyReference.cache
+C:\Users\dommi\source\repos\DataWork\DataWork\obj\Debug\MainWindow.g.cs
+C:\Users\dommi\source\repos\DataWork\DataWork\obj\Debug\App.g.cs
+C:\Users\dommi\source\repos\DataWork\DataWork\obj\Debug\DataWork_MarkupCompile.cache
+C:\Users\dommi\source\repos\DataWork\DataWork\obj\Debug\DataWork_MarkupCompile.lref
+C:\Users\dommi\source\repos\DataWork\DataWork\obj\Debug\MainWindow.baml
+C:\Users\dommi\source\repos\DataWork\DataWork\obj\Debug\DataWork.g.resources
+C:\Users\dommi\source\repos\DataWork\DataWork\obj\Debug\DataWork.Properties.Resources.resources
+C:\Users\dommi\source\repos\DataWork\DataWork\obj\Debug\DataWork.csproj.GenerateResource.cache
+C:\Users\dommi\source\repos\DataWork\DataWork\obj\Debug\DataWork.exe
+C:\Users\dommi\source\repos\DataWork\DataWork\obj\Debug\DataWork.pdb
